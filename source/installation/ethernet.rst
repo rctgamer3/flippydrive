@@ -7,7 +7,7 @@ Things Required
 .. image:: /_static/install_ethernet/1_overview.jpg
   :width: 50%
 
-- 10-15 Minutes
+- ± 20 Minutes
 - FlippyDrive Ethernet kit (Ethernet expansion PCB, ribbon cable, rear I/O panel ('back plate'))
 - 4.5mm Gamebit screwdriver
 - #0 Phillips screwdriver

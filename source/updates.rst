@@ -40,7 +40,7 @@ Be very careful when doing so as to not put undue stress on the flex cable. The 
 .. _connecting:
 
 Connecting to a computer
-----------------
+------------------------
 Before plugging in the USB cable, hold down the button on the front of the FlippyDrive while inserting the USB. You will know that it worked if a USB drive called "RPI-RP2" is mounted on your computer.
 
 

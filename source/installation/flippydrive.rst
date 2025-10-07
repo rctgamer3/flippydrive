@@ -206,5 +206,5 @@ Follow the instructions in Step 1 in reverse.
     Don't forget to install the 4 screws normally hidden by the fan/power connector assembly before placing it back on.
 
 Step 7: Set-up microSD card
-``````````````````````
+```````````````````````````
 Check out the :ref:`sdcardsetup` section (on the :doc:`/usage` page) how to format the microSD card and don't forget to add a :doc:`/configuration`.
