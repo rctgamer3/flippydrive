@@ -19,6 +19,8 @@ During FlippyDrive install
 
   Please check if the flex cable is correctly inserted into the drive connector. Make sure you folded it correctly into a W-like shape with the gold connectors of the flex cable inserted in the middle section of the connector.
 
+  Verify that the flex cable is folded correctly and is not upside down. The long arm of the flex cable will be between the disc connector and the heat sink.
+
   .. image:: /_static/connector.svg
      :width: 320
      :class: align-center
