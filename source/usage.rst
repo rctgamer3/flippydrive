@@ -21,7 +21,7 @@ In order to use the FlippyDrive you must first format the microSD card or config
 Format your microSD card using **exFAT** (recommended) or FAT32 file system with an appropriate cluster/allocation unit size.
 We recommend exFAT since it is the more modern file system standard.
 
-For FAT32 formatting of cards larger than 32GB, you can use `this formatting tool <http://ridgecrop.co.uk/index.htm?guiformat.htm>`__.
+- exFAT:
 
 ..  csv-table::
     :header: "microSD size", "Allocation unit size", "also known as"
@@ -31,6 +31,20 @@ For FAT32 formatting of cards larger than 32GB, you can use `this formatting too
     "64, 128 GiB", "128 KiB", "'128 kilobytes' / '128K'"
     "128, 256, 512 GiB", "256 KiB", "'256 kilobytes' / '256K'"
     ">512 GiB 	≤2 TiB", "512 KiB", "'512 kilobytes' / '512K'"
+
+- FAT32:
+
+  For FAT32 formatting of cards larger than 32GB, you can use `this formatting tool <http://ridgecrop.co.uk/index.htm?guiformat.htm>`__.
+
+..  csv-table::
+    :header: "microSD size", "Allocation unit size", "also known as"
+    :align: left
+
+    "2, 4, 8 GiB", "4 KiB", "'4 kilobytes' / '4K'"
+    "16 GiB", "8 KiB", "'8 kilobytes' / '8K'"
+    "32 GiB", "16 KiB", "'16 kilobytes' / '16K'"
+    ">32 GiB - ≤2 TiB", "32 KiB", "'32 kilobytes' / '32K'"
+
 
 .. _sdcardfiles:
 
